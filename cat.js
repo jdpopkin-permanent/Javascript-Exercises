@@ -8,4 +8,4 @@ Cat.prototype.cuteStatement = function() {
 }
 
 cat = new Cat("Sennacy", "Jonathan");
-cat.cuteStatement;
+cat.cuteStatement();
